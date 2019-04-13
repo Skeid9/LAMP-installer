@@ -2,7 +2,10 @@
 Quick LAMP installer for Linux.
 
 # Supported OS
-Ubuntu 14, Ubuntu 16, Debian 8, Debian 9.
+- [x] Ubuntu 14
+- [x] Ubuntu 16
+- [x] Debian 8
+- [x] Debian 9
 
 # Installation
 ``` wget https://raw.githubusercontent.com/Shade991/LAMP-installer/master/lamp.sh && chmod 777 lamp.sh ```
