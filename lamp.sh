@@ -63,6 +63,3 @@ elif [ $os -eq 4 ]; then
     ln -s /usr/share/phpmyadmin /var/www/html/
     echo -e "Installation finished."
 fi
-
-echo -e
-echo -e "Made by Shade991"
