@@ -1,5 +1,4 @@
 #!/bin/bash
-# Made by Shade991
 
 echo -e
 echo -e "The script may require root user"
