@@ -8,7 +8,7 @@ Quick LAMP installer for Linux.
 - [x] Debian 9
 
 # Installation
-``` wget https://raw.githubusercontent.com/Shade991/LAMP-installer/master/lamp.sh && chmod 777 lamp.sh ```
+``` wget https://raw.githubusercontent.com/Skeid9/LAMP-installer/master/lamp.sh && chmod 777 lamp.sh ```
 
 # Usage
 ```
